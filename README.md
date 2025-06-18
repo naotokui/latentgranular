@@ -2,13 +2,13 @@
 # Supplementary materials - LATENT GRANULAR RESYNTHESIS
 <br>
 
-## Hugging Face demo
+## [Hugging Face demo](https://huggingface.co/spaces/naotokui/latent_granular_resynth/)
 
 Source Sounds: Kitchen Sound / Handpan \
 Target Sound: Amen Break
 
+https://github.com/user-attachments/assets/8a4af586-86be-4c27-a21f-5fff2a2058c0
 
-https://github.com/user-attachments/assets/5183ee7e-e76f-4716-b74a-7740cdf30c6e
 
 <br>
 <br>
@@ -20,8 +20,8 @@ https://github.com/user-attachments/assets/5183ee7e-e76f-4716-b74a-7740cdf30c6e
 Source Sounds: Modular Synth / Kitchen Sound \
 Target Sound: Amen Break
 
+https://github.com/user-attachments/assets/5183ee7e-e76f-4716-b74a-7740cdf30c6e
 
-https://github.com/user-attachments/assets/8a4af586-86be-4c27-a21f-5fff2a2058c0
 
 <br>
 <br>
