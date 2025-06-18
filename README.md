@@ -1,6 +1,5 @@
 
-# Supplementary materials - Latent Granular Synth
-
+# Supplementary materials - LATENT GRANULAR RESYNTHESIS
 <br>
 
 ## Hugging Face demo
