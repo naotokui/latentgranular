@@ -2,6 +2,10 @@
 # Supplementary materials - LATENT GRANULAR RESYNTHESIS
 <br>
 
+Nao, Tokui, and Baker Tom. 2025. “Latent Granular Resynthesis Using Neural Audio Codecs.” arXiv [Cs.SD]. arXiv. http://arxiv.org/abs/2507.19202.
+(ISMIR 2025, late-breaking demo)
+
+
 ## [Hugging Face demo](https://huggingface.co/spaces/naotokui/latent_granular_resynth/)
 
 Source Sounds: Kitchen Sound / Handpan \
